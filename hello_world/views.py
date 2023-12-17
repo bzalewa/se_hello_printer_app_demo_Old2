@@ -3,8 +3,8 @@ from hello_world.formater import get_formatted
 from hello_world.formater import SUPPORTED, PLAIN
 from flask import request
 
-moje_imie = "Natalia"
-msg = "Hello World!"
+moje_imie = "Beata"
+msg = "wants to wish you a Merry Christmas and a Happy New Year!"
 
 @app.route('/')
 def index():
